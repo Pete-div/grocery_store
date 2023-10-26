@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "212720258171",
+    "project_id": "grocery-d2b07",
+    "storage_bucket": "grocery-d2b07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212720258171:android:eeb07cc683a60f469966de",
+        "android_client_info": {
+          "package_name": "com.example.gostery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212720258171-j0uucs3uhug9oigtoik7f9qs0t6qiota.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gostery",
+            "certificate_hash": "e1948c73c59673ac352a64715b463da0396f32dc"
+          }
+        },
+        {
+          "client_id": "212720258171-aap455npp122t8fjo2n7vf272jtt0dfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtMY5Ur6V0MHeg2W6kbEw3u9uKfkFmmbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212720258171-aap455npp122t8fjo2n7vf272jtt0dfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
